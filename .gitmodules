@@ -1,0 +1,6 @@
+[submodule "torchdiffeq"]
+	path = torchdiffeq
+	url = https://github.com/ne3x7/torchdiffeq
+[submodule "fastai_reg"]
+	path = fastai_reg
+	url = https://github.com/ne3x7/fastai_reg
